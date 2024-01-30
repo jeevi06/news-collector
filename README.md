@@ -2,7 +2,7 @@
 
 ## structure of the file 
 
-news_collector/
+### news_collector/
 |-- app/
 |   |-- __init__.py
 |   |-- models.py
